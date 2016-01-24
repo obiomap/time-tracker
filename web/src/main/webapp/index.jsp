@@ -13,7 +13,7 @@
 <body>
   <h1>Cool Super Simple Example Web Page</h1>
   <p>
-    Yeah! This is a very simple example web page on a JSP.
+    Yeahs!This is it. This is a very simple example web page on a JSP.
   </p>
 </body>
 </html>
