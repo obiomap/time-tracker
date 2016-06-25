@@ -14,7 +14,7 @@
   <h1>Cool Stuff by Patrick. Super Simple Example Web Page</h1>
   <h1>Awesome stuff!!!!!</h1>
   <p>
-    Yeahs!. This is a very simple example web page on a JSP.
+    Yeahs!!!!!. This is a very simple example web page on a JSP.
   </p>
 </body>
 </html>
