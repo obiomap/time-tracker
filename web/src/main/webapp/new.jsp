@@ -8,7 +8,11 @@
   <table border="0" cellpadding="10">
     <tr>
       <td align=center>
+<<<<<<< HEAD
         <img src="../../images/paddyjenny.jpg">
+=======
+        <img src="images/paddyjenny.jpg">
+>>>>>>> a5c5df1c7cb696ce9fed4a89c79ff4b080ede415
       </td>
       <td>
          <h1>Sample Application JSP Page</h1>
