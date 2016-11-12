@@ -1,6 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: Jason
+  User: Paddy 
   Date: 6/22/2015
   Time: 8:47 PM
   To change this template use File | Settings | File Templates.
@@ -14,7 +14,7 @@
   <h1>Cool Stuff by Patrick. Super Simple Example Web Page</h1>
   <h1>Awesome stuff, isn't it My wonderful friend?</h1>
   <p>
-    Yeahs!!!!!. This is a very simple example web page on a JSP.
+    This is a very simple example web page on a JSP. Feel free to modify this file.
   </p>
 </body>
 </html>
